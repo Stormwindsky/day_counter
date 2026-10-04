@@ -1,4 +1,0 @@
-# Day counter configuration for Luanti
-
-day_counter_unlimited (Unlimited Days) bool true
-day_counter_max_days (Maximum Days Limit) int 100
