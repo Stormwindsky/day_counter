@@ -1,2 +1,2 @@
-# day_counter
-A mod for Luanti lol
+# day counter
+A Luanti mod to let you know how many days you've done
